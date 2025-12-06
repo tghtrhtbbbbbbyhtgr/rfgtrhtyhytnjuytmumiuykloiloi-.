@@ -60,7 +60,9 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  '7amma_tayzon_x.mp4',
+  'albundy.mp4',
+  'jozin.mp4',
+  'nyan.mp4',
   
 ]
 
